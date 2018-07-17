@@ -1,2 +1,3 @@
 # hello-world
-My first Repo yay
+
+I just wanted to see how this works for Ludum Dare
